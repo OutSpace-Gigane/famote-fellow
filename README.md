@@ -23,6 +23,6 @@ Choosing a Template would look like hard so there's 2 Options.
 (!!! MORE TEMPLATES SHOULD BE ADDED IN NEXT UPDATES !!!)
 
 # Important Notes:
-- It just creates a template NOT the code  
+- It just creates a project NOT the code  
 - If You have suggestions or You have facing issues feel free to contact me: outspace_gigane (Discord username)  
 - It's Open Source so feel free to edit anything on code or even writing that from scratch!
